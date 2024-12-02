@@ -1,0 +1,1 @@
+{"seq_mask": "protein", "struct_mask": null, "top_k": 30, "focus": true, "remove_far": true, "threshold": 1, "weight_dists": false, "pep_weight": 1, "force_from_back": false, "force_from_front": true}
